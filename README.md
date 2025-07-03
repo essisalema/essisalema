@@ -1,4 +1,4 @@
-## Hi there 👋
+#¡Hola! Soy Santiago, un entusiasta de la tecnología y el desarrollo de software. Tengo amplia experiencia en la creación de aplicaciones desde cero y manejo diversas tecnologías, como Java, Python, React.js, JavaScript, HTML y CSS. A lo largo de mi carrera, he trabajado con una variedad de bases de datos, tanto relacionales como no relacionales, como PostgreSQL, MongoDB, MySQL y SQL Server. También tengo experiencia con control de versiones mediante Git y Mercurial, lo que me permite gestionar proyectos de manera eficiente y colaborativa.#  👋
 
 <!--
 **essisalema/essisalema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
